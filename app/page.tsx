@@ -26,9 +26,6 @@ export default function Home() {
                         <p className='text-sm lg:text-base text-center text-white/70'>
                             Thank you so much for your interest.
                         </p>
-                        <div className='py-10'>
-                            <Timer />
-                        </div>
                     </div>
                     <div className='flex text-white text-center items-center justify-center py-5 drop-shadow'>
                         © 2024 AKAI Car Audio. All Rights Reserved.
